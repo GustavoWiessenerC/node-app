@@ -1,0 +1,16 @@
+[
+  {
+  "name": "Relogio",
+  "description": "Necessidade de ver a hora",
+  "price": 100
+}, {
+  "name": "Mesa",
+  "description": "Mesa portatil",
+  "price": 250
+}
+,{
+  "name": "Notebook",
+  "description": "I7 Configuracoes",
+  "price": 2500
+}
+]
